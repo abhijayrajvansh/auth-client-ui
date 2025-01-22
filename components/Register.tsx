@@ -16,7 +16,7 @@ const page = () => {
   };
 
   return (
-    <div className="space-y-5 bg-white p-10 rounded-lg  drop-shadow-lg mb-3">
+    <div className="space-y-5 bg-white p-10 rounded-lg mt-12 drop-shadow-lg">
       <h1 className="text-6xl font-semibold drop-shadow-lg text-center">
         Sign up
       </h1>
